@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>add.png</file>
+        <file>client.png</file>
+        <file>delete.png</file>
+        <file>edit.png</file>
+        <file>fileclose.png</file>
+        <file>GroupBoxStyle.txt</file>
+        <file>list.png</file>
+        <file>microsoft_excel.png</file>
+        <file>print.png</file>
+        <file>QWidgetStyle.txt</file>
+        <file>see.png</file>
+        <file>ToolButtonStyle.txt</file>
+    </qresource>
+</RCC>

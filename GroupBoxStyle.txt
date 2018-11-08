@@ -1,0 +1,9 @@
+QGroupBox {border: 1px solid #A3A3FF; 
+border-top-right-radius: 5px; 
+border-top-left-radius: 5px; 
+border-bottom-right-radius: 5px; 
+border-bottom-left-radius: 5px;
+margin-top: 1ex;} 
+QGroupBox::title {color: darkblue; 
+subcontrol-origin: margin;
+font: bold;}

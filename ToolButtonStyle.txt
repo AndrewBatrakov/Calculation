@@ -1,0 +1,27 @@
+QToolButton {
+border: 1px solid black;
+max-height: 18px;
+max-width: 18px;
+min-height: 18px;
+min-width: 18px;
+padding: 1px;
+border-top-right-radius: 5px;
+border-top-left-radius: 5px;
+border-bottom-right-radius: 5px;
+border-bottom-left-radius: 5px;
+background-color: 
+qlineargradient(x1:0, y1:0, x2:0, y2:1,
+stop:0 #d3d3d3,
+stop:0.5 #bebebe,
+stop:0.51 #bebebe,
+stop:1 #848484);
+color: #231A4C;
+font: bold}
+
+QToolButton:hover {background-color: 
+qlineargradient(x1:0, y1:0, x2:0, y2:1,
+stop:0 #cfcccc,
+stop:0.5 #333232,
+stop:0.51 #000000,
+stop:1 #585c5f);
+color: #00cc00}
